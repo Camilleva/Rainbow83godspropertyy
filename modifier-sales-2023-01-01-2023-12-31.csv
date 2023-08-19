@@ -1,0 +1,9 @@
+Modifier Set,Modifier,Net Qty Sold,Net Sales,Qty Sold,Gross Sales,Qty Refunded,Refunds
+Digital coin sales,BTC paym5,0,$0.00,5,$0.00,-5,$0.00
+Point of sales for Bitcoin,Bitcoin,0,$0.00,6,"$48,000.00",-6,"-$48,000.00"
+Point of sales for Bitcoin ,Bitcoin ,1,"$8,000.00",10,"$80,000.00",-9,"-$72,000.00"
+Point of sales for Rainbow 83,Restaurant,0,$0.00,7,"$56,000.00",-7,"-$56,000.00"
+Point of sales for Rainbow 83,Restaurant ,0,$0.00,1,"$8,000.00",-1,"-$8,000.00"
+Point of sales for godsproperty,Godsproperty,0,$0.00,8,"$20,000.00",-8,"-$20,000.00"
+Point of sales for godsproperty ,Godsproperty ,1,"$2,500.00",9,"$22,500.00",-8,"-$20,000.00"
+Rainbow 83,Rainbow 83,7,$0.00,34,$0.00,-27,$0.00
